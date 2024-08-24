@@ -149,7 +149,7 @@ Módulos LAN: Puede cubrir un área de unos pocos kilómetros, aplicándose a la
 Módulos WAN: Puede cubrir un área de decenas a cientos de kilómetros, aplicándose a la comunicación de largo alcance al aire libre.
 
 \leavevmode\newline
-\textbf{Módulos ampliación:}
+\textbf{Módulos de ampliación:}
 \leavevmode\newline
 
 Los entornos de red se encuentran en permanente evolución. La fibra, que anteriormente se solía utilizar casi con exclusividad en los centros de datos de empresas, ahora se encuentra disponible al alcance de todos en la cotidianeidad. Incluso las pequeñas empresas pueden acceder a opciones de conectividad de fibra e implementar conmutadores con frecuencia, lo cual permite usar fibra de 1 o 10 Gb. Los módulos de red ampliables permiten expandirse en el futuro. Si uno necesita más puertos de red en el firewall, no hace falta que invierta una gran cifra en sustituir las instalaciones. Los administradores de red pueden simplemente agregar un nuevo módulo al dispositivo existente para aumentar la densidad de puerto. Este tipo de dispositivos permiten agregar módulos de red para definir una configuración que satisfaga las necesidades de casi cualquier configuración de red, disponiendo diversos tipos de puertos para fibra y/o conductores de cobre, con un amplio soporte para diferentes velocidades de transmisión de datos.

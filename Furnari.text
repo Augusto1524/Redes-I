@@ -1,0 +1,390 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+
+\title{Introducción a Packet Tracer}
+\author{Augusto Furnari}
+\date{20 de agosto de 2024}
+
+\begin{document}
+
+\maketitle
+
+\section{Packet Tracer} 
+
+{Cisco Packet Tracer es un software propiedad de Cisco System Inc. (marca referente a nivel mundial en soluciones de redes), diseñado para la simulación de redes conformadas por equipos distribuidos bajo la marca de la misma compañía, sumados a otros de índole genérico. Con este simulador, estudiantes en formación pueden desarrollar pruebas de configuración y funcionamiento de una amplísima variedad de redes. 
+Las simulaciones dan soporte a los protocolos más utilizados, entre ellos:
+
+\begin{itemize}
+    \item  Internet Protocol versión 6 (IPv6)
+
+    \item  Modelos mejorados de Linksys, algoritmo WEP, mejoras en Cable y DSL
+
+    \item  Call Manager Express (soporte de VOIP)
+
+    \item Servidores FTP en enrutadores y switches
+
+    \item Sistema de Email (SMTP y POP3), cliente y servidor.
+
+    \item Implementación limitada de Border Gateway Protocol (BGP)
+\end{itemize}
+
+
+
+Con esta aplicación, los usuarios pueden crear y configurar redes virtuales complejas en un entorno seguro y controlado. Esta herramienta permite a estudiantes, profesionales de la tecnología de la información (TI) y aficionados a las redes experimentar y practicar con diferentes configuraciones de red sin comprometer una infraestructura real.
+
+
+\leavevmode\newline
+\leavevmode\newline
+\textbf{Características y capacidades de Cisco Packet Tracer}
+\leavevmode\newline
+
+La funcionalidad de Cisco Packet Tracer incluye la simulación de dispositivos de red como routers, switches, servidores y dispositivos finales, lo que permite a los usuarios comprender cómo interactúan y se comunican entre sí. También ofrece numerosas características prácticas, como la capacidad de realizar pruebas de conectividad, configurar servidores DHCP y utilizar protocolos de enrutamiento.
+
+Una de las características más destacadas de Cisco Packet Tracer es su interfaz intuitiva y fácil de usar. Los usuarios pueden arrastrar y soltar dispositivos de red en el área de trabajo, conectarlos mediante cables virtuales y configurar sus propiedades según sea necesario. Además, la herramienta proporciona una amplia gama de dispositivos y módulos de red preconfigurados que se pueden utilizar para crear topologías de red complejas.
+
+\leavevmode\newline
+\textbf{Aspectos beneficiosos en el uso de Cisco Packet Tracer}
+
+El uso de este software ofrece una serie de beneficios significativos. En primer lugar, proporciona un entorno de aprendizaje seguro y controlado para los estudiantes de redes. Les permite experimentar con diferentes configuraciones de red y comprender los conceptos teóricos en un entorno práctico.
+Además, Cisco Packet Tracer ayuda a una amplia variedad de profesionales a adquirir y mejorar tanto habilidades como conocimiento sobre redes. Les permite practicar la configuración de dispositivos, la resolución de problemas y la implementación de soluciones de red en un entorno virtual antes de aplicar los cambios en la red real.
+
+Otro beneficio importante de este software es su capacidad para colaborar y compartir topologías de red. Los usuarios pueden exportar sus configuraciones y compartirlas con otros, lo que facilita el trabajo en equipo y la colaboración en proyectos de redes.
+Cisco Packet Tracer es una herramienta poderosa y versátil que facilita la comprensión de las redes de computadoras, así como contribuye a la adquisición y profundización de habilidades prácticas ya sea en un entorno educativo o en uno profesional.
+
+\leavevmode\newline
+\textbf{¿En qué consiste la utilización de Cisco Packet Tracer?}
+
+La puesta en práctica de este software consiste en crear una red virtual en un entorno simulado. Los usuarios pueden arrastrar y soltar dispositivos de red, como routers y switches, en el área de trabajo y conectarlos mediante cables virtuales. Luego, pueden configurar las propiedades de los dispositivos y las conexiones para simular una red real.
+La herramienta utiliza un motor de simulación subyacente que emula el comportamiento de los dispositivos de red. Esto permite a los usuarios realizar pruebas de conectividad, configurar protocolos de enrutamiento y experimentar con diferentes configuraciones sin afectar la red real.
+
+Cisco Packet Tracer también ofrece una interfaz de línea de comandos simulada para dispositivos como routers y switches. Esto permite a los usuarios practicar la configuración y el manejo de estos dispositivos utilizando comandos reales, lo que mejora su experiencia y conocimiento práctico.
+
+\leavevmode\newline
+\textbf{Breve conclusión sobre la aplicación: }
+
+Cisco Packet Tracer es una herramienta muy útil para aquellos interesados en el estudio, instalación y funcionamiento de la tecnología de redes. La capacidad del software para simular redes virtuales y permitir a los usuarios experimentar con diferentes configuraciones es un aspecto muy interesante a tener en cuenta tanto para estudiantes como para profesionales de TI.
+Ya sea que uno se encuentre aprendiendo sobre redes o buscando mejorar sus habilidades existentes, Cisco Packet Tracer es una opción muy viable para utilizar. Su interfaz intuitiva, amplia gama de dispositivos y capacidades de simulación lo convierten en una herramienta poderosa para comprender y desarrollar habilidades prácticas en el campo de las redes.
+
+\leavevmode\newline
+\section{Dispositivos Finales:}
+\leavevmode\newline
+Un dispositivo final es el origen o el destino de un mensaje transmitido a través de la red. Los dispositivos de red con los que el común de la gente está más familiarizado se denominan terminales. Para distinguir un dispositivo final de otro, cada dispositivo final de una red tiene una dirección. Cuando un dispositivo final inicia la comunicación, utiliza la dirección del dispositivo final de destino para especificar dónde entregar el mensaje.
+\leavevmode\newline
+
+Algunos ejemplos de terminales presentes en Cisco Packet Tracer se mencionan a continuación:
+\begin{itemize}
+    \item Computadoras (PC, Notebooks, estaciones de trabajo)
+    \item Teléfonos.
+    \item Teléfonos IPP
+    \item Teléfonos VoIP.
+    \item Televisores con placa de red incorporada (Smart TV).
+    \item Dispositivos portátiles móviles (smartphones o tablets)
+    \item Impresoras con tecnología Wi-Fi
+\end{itemize}
+
+\leavevmode\newline
+\section{Dispositivos de red}
+Los dispositivos de red son componentes físicos o lógicos que facilitan la transferencia de datos entre diferentes sistemas en una red. Estos dispositivos permiten la comunicación y el intercambio de información entre ordenadores, servidores, dispositivos de almacenamiento y otros componentes conectados a la red. Su función es vital para la creación y el mantenimiento de infraestructuras de comunicación efectivas.
+
+\leavevmode\newline
+
+
+\textbf{Importancia de los dispositivos de red:}
+
+\begin{itemize}
+    \item	Facilitan la comunicación: Los dispositivos de red son fundamentales para la comunicación eficiente entre sistemas, permitiendo el intercambio de datos y recursos.
+
+    \item Posibilitan el acceso a recursos compartidos: Facilitan el acceso a impresoras compartidas, archivos y otros recursos, mejorando la colaboración en entornos de red.
+
+    \item	Garantizan la seguridad: Algunos dispositivos, como los firewalls, protegen la red de amenazas externas, salvaguardando la integridad y privacidad de la información.
+
+    \item	Proporcionan conectividad global: Los routers y modems son cruciales para la conexión a internet, ya que permiten el acceso a recursos y servicios globales.
+
+    \item Optimizan el rendimiento: Switches y routers ayudan a dirigir eficientemente el tráfico de datos, de forma que optimizan el rendimiento de la red.
+\end{itemize}
+
+\leavevmode\newline
+
+\textbf{Algunos dispositivos de red presentes en Cisco Packet Tracer:}
+
+
+\begin{itemize}
+    \item Router: es un dispositivo central en una red que determina la ruta óptima para el tráfico de datos entre diferentes redes. Es esencial para conectar redes locales con redes más amplias, como internet.
+    \item Switch: se utiliza para conectar múltiples dispositivos en una red local. Permite la comunicación eficiente dentro de la red al dirigir los datos solo al dispositivo de destino específico en lugar de a todos los dispositivos conectados.
+    \item Access point (punto de acceso): se utiliza para proporcionar conectividad inalámbrica a dispositivos en una red. Facilita la conexión de dispositivos, como ordenadores portátiles o teléfonos, a la red sin la necesidad de cables.
+    \item Firewall: protege la red al filtrar el tráfico no autorizado. Puede ser hardware o software y ayuda a mantener la seguridad al controlar el acceso a la red. Si bien los firewalls ofrecen el beneficio de un dispositivo todo en uno con controles de seguridad avanzados para una protección amplia y efectiva de la red, también pueden limitar las topologías de red, sobre todo a medida que la red evoluciona en cantidad de conexiones y equipos pertenecientes.
+    \item Hub: aunque es menos común en entornos modernos, se utiliza para conectar múltiples dispositivos en una red, pero difunde los datos a todos los dispositivos, lo que puede afectar el rendimiento.
+    \item Módem: convierte las señales digitales de una red en señales analógicas, que pueden transmitirse a través de líneas telefónicas o de cable, y viceversa. Es esencial para la conexión a internet.
+\end{itemize}
+
+\leavevmode\newline
+
+\textbf{Funciones esenciales de los dispositivos de red}
+\begin{itemize}
+    \item Enrutamiento: Los routers dirigen el tráfico de datos a través de la red, eligiendo la ruta más eficiente para la entrega de paquetes de datos.
+    \item Conmutación: Los switches facilitan la comunicación dentro de una red local al dirigir los datos solo al dispositivo de destino, mejorando la eficiencia de la red.
+    \item Conectividad inalámbrica: Los puntos de acceso permiten la conectividad inalámbrica, facilitando la movilidad de dispositivos dentro de la red.
+    \item Seguridad: Los firewalls protegen la red al filtrar y controlar el tráfico, previniendo accesos no autorizados y ataques.
+    \item Acceso a internet: Los modems son esenciales para establecer la conexión a internet, convirtiendo las señales digitales en analógicas y viceversa.
+\end{itemize}
+
+\leavevmode\newline
+\textbf{Firmware:}
+\leavevmode\newline
+
+El firmware es un programa codificado en un dispositivo para que funcione de acuerdo con sus capacidades. Una de las tareas de mantenimiento más destacables en relación con los dispositivos de red tiene que ver con su software, lo que conocemos como firmware. Gracias a él, cada dispositivo realiza sus tareas y funciones de manera habitual. Es importante instalar o actualizar a la última versión del firmware porque a menudo contiene mejoras como nuevas funciones o corrección de defectos que causan una vulnerabilidad de seguridad o un problema de rendimiento. También mantiene la red segura, elimina las desconexiones frecuentes de la red o problemas de conexión intermitentes.
+
+Con el tiempo, los fabricantes de dispositivos electrónicos lanzan actualizaciones del firmware para corregir diferentes errores o para mejorar el funcionamiento de los equipos. En algunos casos, las actualizaciones de firmware sirven para eliminar agujeros/baches de seguridad que se detectan.
+
+Cada modelo de dispositivo tiene su propio firmware y su propia versión, que puede cambiar con el tiempo. Tener la versión más actual sirve para que cada equipo cumpla con su función lo mejor posible.
+
+Es posible que un firmware desactualizado, obsoleto o discontinuado perteneciente a algún dispositivo de red ocasione incompatibilidades del mismo con otro equipo con el que se lo quiera conectar, lo que desencadena problemas de comunicación en la red. Los problemas de incompatibilidad pueden ser ocasionado por intentar conectar dispositivos de diferentes marcas que no estén completamente estandarizados, o que funcionen con una tecnología de épocas muy distantes por lo cual uno de los dos resulte ser demasiado antiguo en comparación con el otro.
+
+\leavevmode\newline
+\textbf{Módulos:}
+\leavevmode\newline
+
+De acuerdo con la cobertura de la red, los módulos de red se pueden dividir en dos tipos: módulos de red de área local (LAN) y módulos de red de área extensa (WAN).
+Módulos LAN: Puede cubrir un área de unos pocos kilómetros, aplicándose a la comunicación interior de corto alcance.
+Módulos WAN: Puede cubrir un área de decenas a cientos de kilómetros, aplicándose a la comunicación de largo alcance al aire libre.
+
+\leavevmode\newline
+\textbf{Módulos ampliación:}
+\leavevmode\newline
+
+Los entornos de red se encuentran en permanente evolución. La fibra, que anteriormente se solía utilizar casi con exclusividad en los centros de datos de empresas, ahora se encuentra disponible al alcance de todos en la cotidianeidad. Incluso las pequeñas empresas pueden acceder a opciones de conectividad de fibra e implementar conmutadores con frecuencia, lo cual permite usar fibra de 1 o 10 Gb. Los módulos de red ampliables permiten expandirse en el futuro. Si uno necesita más puertos de red en el firewall, no hace falta que invierta una gran cifra en sustituir las instalaciones. Los administradores de red pueden simplemente agregar un nuevo módulo al dispositivo existente para aumentar la densidad de puerto. Este tipo de dispositivos permiten agregar módulos de red para definir una configuración que satisfaga las necesidades de casi cualquier configuración de red, disponiendo diversos tipos de puertos para fibra y/o conductores de cobre, con un amplio soporte para diferentes velocidades de transmisión de datos.
+
+\leavevmode\newline
+\textbf{Placas de red:}
+\leavevmode\newline
+
+Una placa o tarjeta de red (NIC) es un componente de hardware importante que se utiliza para proporcionar conexiones de red. Gracias a sus amplias aplicaciones, varios tipos de tarjetas de red han aparecido en el mercado, como, por ejemplo, la tarjeta PCIe y la tarjeta de red para el servidor. 
+
+Para comprender un poco en qué consiste la tarjeta NIC, es preciso aclarar que existen diferentes nombres para las tarjetas de interfaz de red según las diferentes regiones. Por ejemplo, en algunos lugares se les conoce como: controlador de interfaz de red, tarjeta Ethernet, tarjeta LAN, adaptador de red o tarjeta de adaptador de red (NAC). Lo anterior puede resultar un poco confuso, sin embargo, no importa qué nombres tenga la NIC, todos se refieren a placas de circuito que permiten que dispositivos como ordenadores y servidores de red se conecten a través de la red. Actualmente, la tarjeta NIC diseñada en un estilo incorporado, se encuentra comúnmente en la mayoría de los ordenadores y algunos servidores de red. Además, las tarjetas de red para servidor también se pueden insertar en las ranuras de expansión de los dispositivos.
+\leavevmode\newline
+\textbf{Función de la tarjeta NIC}
+\leavevmode\newline
+
+La definición de la tarjeta NIC es muy simple, pero ¿para qué sirve una tarjeta de red y cuál es su función? Al funcionar como una interfaz en la capa TCP/IP, una tarjeta NIC puede transmitir señales en la capa física y paquetes de datos en la capa de red. No importa en qué capa se encuentre el controlador de interfaz de red, este actúa como intermediario entre el ordenador/servidor y la red de datos. Cuando un usuario solicita una página web, la tarjeta LAN obtiene datos del dispositivo del usuario y los envía al servidor en Internet, y luego recibe los datos requeridos de Internet para mostrárselos a los usuarios.
+
+\leavevmode\newline
+\textbf{Componentes o partes de la tarjeta NIC}
+\leavevmode\newline
+
+En general, una tarjeta de red se compone principalmente de un controlador, un zócalo de ROM de arranque, uno o más puertos NIC, una interfaz de conexión de placa madre, indicadores LED, un soporte y algunos otros componentes electrónicos. Cada componente de la tarjeta LAN tiene sus propias características:
+
+\leavevmode\newline
+\underline {Controlador:}
+el controlador es como una mini CPU que procesa los datos recibidos. Al ser la parte central de la tarjeta de red, el controlador determina directamente el rendimiento del dispositivo.
+
+\leavevmode\newline
+\underline {Zócalo de ROM de arranque:}
+este zócalo habilita la función ROM de arranque en la tarjeta, la cual permite que las estaciones de trabajo sin disco se conecten a la red, por lo tanto, aumenta la seguridad y reduce los costos de hardware.
+
+\leavevmode\newline
+\underline {Puerto NIC para cable/transceptor:} 
+normalmente, este puerto se conectará a un cable o transceptor de red directamente que puede generar y recibir señales electrónicas colocadas en el cable de red o cable de fibra óptica.
+
+\leavevmode\newline
+\underline {Interfaz del bus:} esta interfaz se encuentra en el costado de la placa de circuito, la cual sirve para conectar la NIC con un ordenador o servidor a través de su ranura de expansión.
+
+\leavevmode\newline
+\underline {Indicador LED:} 
+los indicadores se utilizan para ayudar a los usuarios a identificar si la tarjeta de red está conectada a la red y si se están transmitiendo los datos.
+
+
+\leavevmode\newline
+\underline {Soporte: }
+hay dos tipos de soportes para perfil en el mercado. El primero es el soporte de altura completa con una longitud de 12cm, y el segundo es el soporte de perfil bajo con una longitud de 8cm. Este soporte puede ayudar a los usuarios a reparar la NIC en la ranura de expansión de un ordenador o servidor.
+
+\leavevmode\newline
+\leavevmode\newline
+\leavevmode\newline
+\textbf{Tipos de tarjeta de red}
+\leavevmode\newline
+
+Las tarjetas de interfaz de red se pueden clasificar en diferentes en virtud de diferentes características. Entre estas se incluyen la interfaz de host, la velocidad de transmisión y los campos de aplicación. Los detalles se muestran a continuación.
+
+\leavevmode\newline
+\textbf{Clasificación basada en la conexión de red}
+\leavevmode\newline
+
+Según la forma en que una tarjeta de red accede a la red, existen tarjetas NIC alámbricas e inalámbricas. Como su nombre lo indica, una NIC alámbrica generalmente debe conectar un nodo a la red con un cable, tal y como el cable de red y el cable de fibra óptica. Una tarjeta NIC inalámbrica suele tener una antena pequeña que utiliza ondas de radio para comunicarse con el punto de acceso para involucrarse en una red inalámbrica.
+
+\leavevmode\newline
+\textbf{Clasificación basada en la interfaz del bus}
+\leavevmode\newline
+
+Tarjeta de red ISA (Arquitectura Industrial Estándar): el bus ISA se desarrolló en 1981, el cual consistía en una arquitectura de bus estándar para máquinas compatibles con IBM. Debido a la baja velocidad de la tarjeta de 9Mbps, la interfaz del bus ISA ya no es un tipo reconocido, y es difícil de encontrar en las tiendas actuales.
+
+\leavevmode\newline
+\underline { Tarjeta de red PCI (Interconexión de componentes periféricos):}
+El bus PCI se desarrolló en 1990 para reemplazar el estándar ISA anterior. Tiene un ancho fijo de 32bits (133MB/s de datos de transmisión) y 64 bits (266MB/s de datos de transmisión). Este tipo de tarjeta NIC se utilizó por primera vez en servidores y luego se aplicó gradualmente a los ordenadores. Hoy, la mayoría de los ordenadores no tienen tarjetas de expansión, sino dispositivos integrados en la placa madre. Como resultado, la tarjeta de red PCI ha sido reemplazada por otras interfaces de bus, como, por ejemplo, las interfaces PCI-X o USB.
+
+\leavevmode\newline
+\underline {Tarjeta de red PCI-X (Interconexión de componentes periféricos extendida):}
+La tarjeta PCI-X es una tecnología de bus PCI mejorada. Se ejecuta en 64bits con una velocidad máxima de 1064MB/s. En muchos casos, la PCI-X es compatible con las tarjetas de red PCI.
+
+\leavevmode\newline
+\underline {Tarjeta de red PCIe (Interconexión de componentes periféricos expreso):}
+La tarjeta PCIe es el último estándar y ahora es popular en las placas madre de los ordenadores y servidores. Hay cinco versiones de tarjetas NIC PCIe, cada una de las cuales admite cinco carriles de velocidad diferentes. Para obtener más información sobre las tarjetas PCIe, lee el siguiente artículo: Tutorial de tarjetas PCIe: todo lo que necesitas saber sobre las tarjetas PCI Express.
+
+\leavevmode\newline
+\underline {Tarjeta de red USB (Bus serie universal):}
+El bus USB es un estándar de bus externo. Viene en tres versiones con diferentes velocidades de datos y puede funcionar junto con una variedad de dispositivos. Además, la tarjeta de red inalámbrica también es un tipo de tarjeta NIC, que está diseñada para la conexión Wi-Fi.
+
+\leavevmode\newline
+
+\textbf{Clasificación según el tipo de puerto}
+\leavevmode\newline
+
+De acuerdo con los diferentes cables conectados, se pueden encontrar cuatro tipos de puertos NIC en el mercado. El puerto Rj45 que se usa para conectar los cables de par trenzado (como Cat5 y Cat6), los puertos AUI para cables coaxiales gruesos (como el cable transceptor AUI), los puertos BNC para cables coaxiales finos (como el cable BNC) y los puertos ópticos para transceptor (como el transceptor 10G/25G).
+\leavevmode\newline
+
+\textbf{Clasificación basada en la velocidad de transmisión}
+\leavevmode\newline
+
+Basándonos en las diferentes velocidades, disponemos en el mercado de tarjetas de red de 10Mbps, 100Mbps, 10/100Mbps, 1000Mbps, 10GbE, 25G o incluso de mayor velocidad. Las tarjetas NIC de 10Mbps, 100Mbps y 10/100Mbps son adecuadas para pequeñas redes LAN, usos domésticos u oficinas cotidianas. La NIC de 1000Mbps proporciona un mayor ancho de banda en redes Gigabit. Las tarjetas NIC de 10Gb/25Gb e incluso tarjetas de mayor velocidad, son de gran acogida por las grandes empresas o centros de datos. Para conocer más sobre las NIC de 25G, puedes leer este artículo: NIC de 25G: una ruta altamente efectiva hacia las redes 100G.
+\leavevmode\newline
+
+\textbf{Clasificación basada en campos de aplicación}
+\leavevmode\newline
+
+Tarjeta NIC para ordenadores: hoy en día, la mayoría de los ordenadores nuevos tienen una NIC integrada en la placa madre, por lo que no se requiere una tarjeta LAN separada. Por lo general, dicha tarjeta viene con velocidades de 10/100Mbps y 1Gbps, y permite que un ordenador se comunique con otros ordenadores o redes.\leavevmode\newline
+
+Hablando un poco de lo que es una tarjeta de red para servidores, podemos decir que la función principal de una NIC para servidor es administrar y manejar el tráfico de red. En comparación con el adaptador de red de un ordenador normal, los adaptadores de servidor generalmente requieren una velocidad de transmisión de datos más rápida como por ejemplo de 10G, 25G, 40G e incluso 100G. Además, los adaptadores de servidor tienen un menor uso de CPU, pues disponen de un controlador de red especial que puede tomar muchas tareas de la CPU. Para satisfacer las diferentes demandas de velocidad de los usuarios para los adaptadores de servidor, fabricantes han lanzado -por ejemplo- tarjetas/adaptadores de red PCIe 10G y tarjetas NIC 25G/40G. 
+
+
+\section{Cableado}
+Los cables de red tienen como finalidad la transmisión de datos. Existen diversos tipos de cables de red, así como diferentes modos de conexión. A continuación, se detallan los tipos de cables más utilizados, presentes en Cisco Packet Tracer:
+\leavevmode\newline
+
+\textbf{Cable de red directo}
+\newline
+El cable de red directo no cambia su dirección. Ambos extremos utilizan el mismo estándar de cableado: T-568A o T-568B. Por lo tanto, ambos extremos (conector A y conector B) del cable directo tienen una disposición de cables del mismo color. Estos cables son ampliamente utilizados para conectar ordenadores a switches, concentradores o enrutadores.
+\leavevmode\newline
+
+\textbf{Cable cruzado}
+\newline
+El cable cruzado, como su nombre indica, se cruza o cambia de dirección de un extremo a otro. A diferencia del cable directo, el cable cruzado utiliza diferentes estándares de cableado en cada uno de sus extremos: uno el estándar T568A y el otro el estándar T568B.
+\newline
+Ambos lados del cable cruzado tendrán una disposición de cables de diferente color; los cables que salen de un conector deben coincidir con sus pins correspondientes en el otro. Los cables cruzados se usan principalmente para conectar dos enrutadores, ordenadores o concentradores (hub).
+\leavevmode\newline
+
+\underline {¿En qué casos usar cable directo o cable cruzado? }\leavevmode\newline
+En general, un cable cruzado se utiliza para conectar dos dispositivos del mismo tipo, como por ejemplo un PC a una PC o un switch a otro switch. Por otro lado, el cable directo conecta dos dispositivos diferentes entre sí, como por ejemplo un PC y un switch. A continuación, explicaremos sus diferentes aplicaciones a través de diferentes escenarios.
+
+\leavevmode\newline
+
+\textbf{Cable FTP (par trenzado frustrado o pantalla global):}
+Consiste en 4 pares de cables sin aislamiento, aunque disponen de un apantallamiento global que protege al cable de posibles interferencias electromagnéticas.
+\leavevmode\newline
+
+\textbf{Cable UTP (par trenzado sin blindaje):}
+Igual que el tipo anterior, posee 4 pares de cables sin aislamiento. En este caso el aislamiento es de PVC lo que lo hace más susceptible a interferencias externa y limita la longitud máxima a 100 m, más distancia de cable puede provocar pérdida de señal e información.
+\leavevmode\newline
+
+El cable FTP/UTP se puede dividir en 7 categorías, siendo la más habitual la categoría 5 o 5e. La diferencia entre las categorías está representada por el peor o mejor aislamiento, traduciéndose en mayores tasas de velocidad de transmisión de datos y distancia.
+
+
+\leavevmode\newline
+
+\textbf{Categorías:}
+
+\begin{itemize}
+    \item Categorías 1-4: Transmiten datos a velocidades de 4-20 Mbits, siendo la categoría 1-2 para uso telefónico y 3-4 para redes con baja velocidad de transmisión de datos, hoy en día casi en desuso.
+    \item Categoría 5: Transmiten datos a velocidades de 100 Mbits, se considera el cable más estándar.
+    \item Categoría 6-7: Transmiten datos a velocidades de 1-100 Gbits.
+\end{itemize}
+
+Tanto el cable UTP como el FTP poseen el conector RJ45, sin duda el más usado en las redes domésticas. Diferenciamos principalmente dos tipos de conexiones: la conexión cruzada para conectar dos tarjetas de red (o ordenadores) y la conexión normal para conectar router con ordenador.
+
+\leavevmode\newline
+
+\textbf{Cable de par trenzado apantallado (STP)}
+\leavevmode\newline
+
+Este tipo de cable, a diferencia del UTP, no es susceptible a las interferencias eléctricas, ya que dispone de un apantallamiento que protege cada par de manera individual. Cuando decimos que un cable está apantallado es porque se encuentra recubierto por una capa conductora común que evita el acoplamiento de ruidos e interferencias.
+
+\leavevmode\newline
+
+\textbf{Cable de fibra óptica}
+\leavevmode\newline
+
+Se trata de un cable compuesto por un centro de cristal y que está rodeado de varias capas de material protector. Es ideal para entornos donde hay gran cantidad de interferencias eléctricas, porque el cable de fibra óptica transmite luz en vez de señales eléctricas. Con un cable de fibra óptica se pueden transmitir señales desde mayores distancias que con cables de par trenzado o coaxiales.
+
+La instalación y modificación de este tipo de cable es bastante dificultosa, pero tiene unas grandes ventajas, entre las que destacamos:
+\begin{itemize}
+    \item Transmitir una cantidad mucho mayor de información.
+    \item Muy buena resistencia a la humedad y a la exposición solar.
+    \item Las fibras Kevlar hacen que el cable sea más fuerte y dificultan su ruptura. Hay principalmente dos tipos:
+    \end{itemize}
+    
+· Mononodo: Sólo transmite por un modo de luz axial. Se utiliza para grandes distancias (hasta 40 km), es muy vulnerable y delicado.
+\leavevmode\newline
+
+· Multinodo: Transmite por miles de modos, se utiliza para distancias cortas.
+
+\leavevmode\newline
+\textbf{Cable coaxial}
+\leavevmode\newline
+
+El cable coaxial es característico porque contiene un conductor de cobre en su interior. Este cobre está envuelto por una capa aislante que lo separa de un apantallado metálico con forma de rejilla, que garantiza la resistencia a las interferencias eléctricas. Un aspecto importante para tener en cuenta del cable coaxial es que este tipo de conductores es capaz de conectar distancias mayores que los cables de par trenzado.
+\newline
+
+\section{Actividad de conexión en Cisco Packet Tracer }
+Al realizar la conexión en red entre dos PCs en Cisco Packet Tracer, podemos intuir que este tipo de vínculo se utiliza en hogares, pequeñas oficinas y empresas, donde las mismas computadoras funcionan como servidores y clientes en la red.
+\leavevmode\newline
+Este tipo de red se llama red peer-to-peer o red de pares.
+Teniendo en cuenta las líneas de comunicación, si dos computadoras están conectadas directamente entre sí y no se utiliza un cable cruzado, de tal manera que se intentan transmitir los datos de ambas computadoras a través de la linea TX, sus señales chocarían y no se conseguiría ninguna transmisión en la linea RX. Por lo tanto, ninguno de las máquinas recibiría una señal.
+Es por este motivo que necesitaríamos el cable cruzado para este tipo de conexiones entre dos PCs. Dado que este tipo de cable se cruza, la señal enviada en la línea TX desde la PC 1 puede ser recibida por la línea RX en la PC 2; por esto mismo podemos decir que los cables cruzados son la mejor opción para conectar dos dispositivos iguales o del mismo tipo.
+
+\leavevmode\newline
+Si hablamos de las ventajas de las redes entre pares/Peer-to-Pee, podemos destacar las siguientes:
+\begin{itemize}
+    \item Red Fácil de configurar.
+    \item Menos compleja.
+    \item Menor costo de implementación dado que no se requieran dispositivos de red y servidores dedicados.
+    \item Se puede usar para tareas simples como transferir archivos y compartir impresoras.
+    \end{itemize}
+\leavevmode\newline
+Por el contrario, a continuación, se detallan algunas desventajas de este tipo de redes:
+\begin{itemize}
+    \item No cuenta con una administración centralizada.
+    \item La conexión entre pares no es tan segura.
+    \item No es escalable en cuanto a un mayor número de equipos.
+    \item En este tipo de red, todos los dispositivos pueden actuar como clientes y servidores, lo que puede disminuir su rendimiento en cuanto a transmisión de datos.
+\end{itemize}
+
+
+
+\newpage
+\paragraph{Referencias:}
+\begin{itemize}
+    \item Software utilizado: Cisco Packet Tracer
+    \item \href{https://help.webex.com/es-co/article/n36f3ucb/Instalar-o-actualizar-el-firmware-del-tel%C3%A9fono-IP-de-Cisco}
+    \item \href{https://executrain.com.mx/que-es-cisco-packet-tracer-y-como-funciona/}
+    \item \href{https://ccnadesdecero.es/componentes-red}
+    \item \href{https://community.fs.com/es/article/patch-cable-vs-crossover-cable-what-is-the-difference.html}
+    
+    \item \href{https://www.aurum-informatica.es/blog/cableado-de-red-tipos}
+    
+    \item \href{https://www.leroymerlin.es/ideas-y-consejos/consejos/que-tipos-de-cables-de-red-existen.html?srsltid=AfmBOorz7QqOYzDdAhvQg-ZgIv1KklQMrWW8QFBsD-7i3RqlzYuY3dNO}
+    
+    \item \href{ https://www.watchguard.com/es/wgrd-products/firebox-modularity}
+    
+    \item \href{ https://www.voiped.com/es/blog/elementos-de-interconexion-de-redes-que-son-y-tipos/#:~:text=los%20más%20frecuentes.-,Repetidores,además%20de%20amplificar%20la%20intensidad.}
+    \item \href{http://atc2.aut.uah.es/jmruiz/Descarga_LE/Pract_2.Introduccion_Packet_Tracer.pdf}
+    \item \href{https://iesmarserena.es/aulavirtual/pluginfile.php/11651/mod_resource/content/1/manual%20Packer%20Tracer.pdf}
+    \item \href{https://www.udb.edu.sv/udb_files/recursos_guias/informatica-tecnologico/redes-de-comunicacion/2019/i/guia-2.pdf}
+
+    \item \href{https://www.sapalomera.cat/moodlecf/RS/1/course/files/2.3.2.5%20Packet%20Tracer%20-%20Implementing%20Basic%20Connectivity%20Instructions.pdf}
+
+    \item \href{https://www.redestelecom.es/comunicaciones/que-son-los-modulos-de-red-y-para-que-se-utilizan/}
+    
+    \item \href{https://community.fs.com/es/article/nic-card-guide-for-beginners-functions-types-and-selection-tips.html}
+\end{itemize}
+
+}
+
+\end{document}
